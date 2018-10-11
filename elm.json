@@ -1,0 +1,19 @@
+{
+    "type": "package",
+    "name": "trotha01/elm-aframe",
+    "summary": "helper html functions for working with aframe",
+    "license": "BSD-3-Clause",
+    "version": "0.1.0",
+    "exposed-modules": [
+        "AFrame",
+        "AFrame.Attributes",
+        "AFrame.Physics"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "elm/core": "1.0.0 <= v < 2.0.0",
+        "elm/html": "1.0.0 <= v < 2.0.0",
+        "elm/json": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {}
+}
